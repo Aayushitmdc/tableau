@@ -17,8 +17,8 @@ lens:
     name: miniature
     catalog: icebase
   repo:
-    url: https://github.com/Aayushitmdc/lens
-    lensBaseDir: lens/trino/model
+    url: https://github.com/Aayushitmdc/tableau
+    lensBaseDir: tableau/trino1/model
     secretId: githubr
     syncFlags:
       - --ref=main
